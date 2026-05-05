@@ -49,7 +49,7 @@ O dicionario de dados pode ser visto na imagem abaixo:
 
 ## Apresentação do Projeto
 
-[Apresentação do Projeto](../apresentacao/Análise Estratégica_ NPS e Satisfação do Cliente.pdf)
+[Apresentação do Projeto](apresentacao/Análise Estratégica_ NPS e Satisfação do Cliente.pdf)
 
 
 ## Autor
