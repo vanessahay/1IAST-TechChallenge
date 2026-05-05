@@ -28,11 +28,14 @@ O dicionario de dados pode ser visto na imagem abaixo:
    ```
 2. Instale as dependências:
    ```bash
-   pip install -r requirements.txt
+    python -m venv .venv
+    source venv/bin/activate  # No Windows use: .\venv\Scripts\activate
+    pip install -r requirements.txt
    ```
 3. Execute o Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter notebook 01_eda_csv_toPandas.ipynb
+
 
 
 ## Tecnologias Utilizadas
