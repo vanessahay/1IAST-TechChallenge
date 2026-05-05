@@ -49,7 +49,8 @@ O dicionario de dados pode ser visto na imagem abaixo:
 
 ## Apresentação do Projeto
 
-## Vídeo Executivo
+[Apresentação do Projeto](apresentacao/analise_estrategica_nps.pdf)
+
 
 ## Autor
 
