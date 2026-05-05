@@ -1,7 +1,6 @@
 pandas
 numpy
-bigframes
 matplotlib
 seaborn
 plotly
-pandas_gbq
+notebook
