@@ -5,7 +5,6 @@ python-virtualenv/
 remote-kernel/
 __pycache__/
 .ipynb_checkpoints/
-Notebook/.ipynb_checkpoints/
 *.pyc
 *.pyo
 *.pyd
